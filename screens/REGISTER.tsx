@@ -83,7 +83,7 @@ function succesLogin(){
         </TouchableOpacity>
 
         <TouchableOpacity style={styles.loginBtn} onPress={()=>navigation.goBack()}>
-          <Text style={styles.loginText}>Geri don</Text>
+          <Text style={styles.loginText}>Geri dön</Text>
         </TouchableOpacity>
     </View>
   );
