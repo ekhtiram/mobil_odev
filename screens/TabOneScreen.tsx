@@ -79,7 +79,7 @@ loginText: {
   color: 'red',
 },
   separator: {
-    marginVertical: 30,
+    marginVertical: 25,
     height: 1,
     width: '80%',
   },
