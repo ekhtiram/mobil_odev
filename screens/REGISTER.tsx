@@ -56,7 +56,7 @@ function succesLogin(){
     <View style={styles.container}>
 
       <View style={{justifyContent:'center',backgroundColor: 'white',alignItems:'center',marginBottom:50}} >
-        <Text>KAYIT OL</Text>
+        <Text> KAYIT OL </Text>
       </View>
 
       
