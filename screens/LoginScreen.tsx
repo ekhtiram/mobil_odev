@@ -60,7 +60,7 @@ function succesLogin(){
       <View style={styles.inputView} >
           <TextInput  
             style={styles.inputText}
-            placeholder="Email..." 
+            placeholder="Email" 
             placeholderTextColor="black"
             onChangeText={text => setEmail(text)}/>
         </View>
@@ -68,7 +68,7 @@ function succesLogin(){
      <View style={styles.inputView} >
           <TextInput  
             style={styles.inputText}
-            placeholder="Şifre..." 
+            placeholder="Şifre" 
             placeholderTextColor="black"
             onChangeText={text => setPassword(text)}/>
         </View>
