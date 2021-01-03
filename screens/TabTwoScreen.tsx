@@ -7,7 +7,7 @@ import { Text, View } from '../components/Themed';
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title1}>Başvuru Formu:</Text>
+      <Text style={styles.title1}>Başvuru Formu: </Text>
       <Text style={styles.text}></Text>
       <Text style={styles.text}>Başvuracak kişi hakkinda genel bilgiler...</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
