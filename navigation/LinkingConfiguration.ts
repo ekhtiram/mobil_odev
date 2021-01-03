@@ -18,6 +18,12 @@ export default {
           },
         },
       },
+      Login:{
+        screens:{
+          loginscreen:'loginscreen',
+          registerscreen:'registerscreen'
+        }
+      },
       NotFound: '*',
     },
   },

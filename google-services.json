@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731712255571",
+    "project_id": "ehtiram-ff3e9",
+    "storage_bucket": "ehtiram-ff3e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731712255571:android:aba870f23eca2b5b4778a6",
+        "android_client_info": {
+          "package_name": "android.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731712255571-qjkq8cgin5a6l1vu4hge8jsa61qipjv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUZj7g_kDRITd1-s981tjrvcPjS5QRSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731712255571-qjkq8cgin5a6l1vu4hge8jsa61qipjv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
